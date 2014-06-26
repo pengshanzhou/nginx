@@ -3,7 +3,7 @@
  * Copyright (C) Igor Sysoev
  * Copyright (C) Nginx, Inc.
  */
-
+//test 
 
 #ifndef _NGX_HTTP_CONFIG_H_INCLUDED_
 #define _NGX_HTTP_CONFIG_H_INCLUDED_
